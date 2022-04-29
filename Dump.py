@@ -10,6 +10,4 @@ if bit == '64bit':
     from dumpp import menu
     menu()
 elif bit == '32bit':
-      from dumpp import menu
-      menu()
     print("\x1b[1;91mOpps Sorry Brother Your Mobile Not Support This Tools")
